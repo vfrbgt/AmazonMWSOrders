@@ -1,0 +1,25 @@
+{
+    "name": "AmazonOrdersSDK",
+    "description": "SDK for work with Amazon orders",
+    "type": "Amazon",
+    "keywords": [
+        "Amazon",
+        "Amazon SDK",
+        "Amazon MWS",
+        "Amazon Orders"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Bogdan Lipovtsev",
+            "email": "seclan@mail.ru",
+            "homepage": "http://bogdanonline.ru",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Amazon\\": "MarketplaceWebServiceOrders"
+        }
+    }
+}
