@@ -1,5 +1,5 @@
 {
-    "name": "AmazonMWSOrders",
+    "name": "vfrbgt/AmazonMWSOrders",
     "description": "SDK for work with Amazon orders",
     "type": "Amazon",
     "keywords": [
