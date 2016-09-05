@@ -1,5 +1,5 @@
 {
-    "name": "AmazonOrdersSDK",
+    "name": "AmazonMWSOrders",
     "description": "SDK for work with Amazon orders",
     "type": "Amazon",
     "keywords": [
